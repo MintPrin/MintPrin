@@ -1,6 +1,6 @@
 ### Hi, I'm Mint 👋
 
-Amateur human — not necessarily a developer.
+Amateur human - not necessarily a developer.
 
 Product person who builds anyway. Co-Founder & CPTO at [finetunes](https://finetunes.app) — music streaming built for businesses. Industrial engineer by training, so everything here is a system with friction to cut.
 
